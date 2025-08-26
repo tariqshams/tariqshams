@@ -5,4 +5,4 @@ I'm a Software Engineer with professional experience in Distributed (Microservic
 I am interested in building beautiful performant front end experiences, distributed systems, machine learning & AI engineering based systems, and making tools and frameworks. Above all, I get immense joy by working on hard problems with passionate people.
 
 Check out my website here:
-[tariqshams.com](tariqshams.com)
+[tariqshams.com](https://www.tariqshams.com)
