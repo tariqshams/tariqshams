@@ -1,5 +1,5 @@
 # Tariq Shams
-Creator of the Terminal Agent UI Standards [TAUI](https://taui-standards.github.io/taui-standards/index.html)
+Creator of the TAUI (Terminal Agent UI)Standards [TAUI](https://taui-standards.github.io/taui-standards/index.html)
 
 I'm a Software Engineer with professional experience in Distributed (Microservices) Engineering, Fullstack Web Engineering and iOS Mobile Engineering.
 
